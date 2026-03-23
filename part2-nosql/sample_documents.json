@@ -1,0 +1,46 @@
+[
+  {
+    "product_id": "E1001",
+    "name": "4K Smart TV",
+    "category": "Electronics",
+    "brand": "Sony",
+    "price": 65000,
+    "warranty_years": 2,
+    "specs": {
+      "screen_size_inches": 55,
+      "resolution": "3840x2160",
+      "hdmi_ports": 3,
+      "voltage": "220V"
+    },
+    "tags": ["smart", "wifi", "hdr"]
+  },
+  {
+    "product_id": "C2001",
+    "name": "Men's Running Shoes",
+    "category": "Clothing",
+    "brand": "Nike",
+    "price": 4500,
+    "size_options": ["UK 7", "UK 8", "UK 9", "UK 10"],
+    "material": {
+      "upper": "mesh",
+      "sole": "rubber"
+    },
+    "colors_available": ["black", "blue", "red"],
+    "gender": "Male"
+  },
+  {
+    "product_id": "G3001",
+    "name": "Organic Almond Milk",
+    "category": "Groceries",
+    "brand": "HealthyLife",
+    "price": 250,
+    "volume_ml": 1000,
+    "expiry_date": "2024-12-15",
+    "nutritional_info": {
+      "calories_per_100ml": 45,
+      "protein_g": 1.2,
+      "fat_g": 2.5
+    },
+    "is_refrigerated": true
+  }
+]
